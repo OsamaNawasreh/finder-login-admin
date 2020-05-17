@@ -1,7 +1,7 @@
 # finder-login-admin
 finder login admin web
 
-python3 finder-login-admin -u or url url+/
+python3 finder-login-admin 
 
 is important   url + /
 
