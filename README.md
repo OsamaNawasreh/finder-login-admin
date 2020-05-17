@@ -1,8 +1,8 @@
 # finder-login-admin
 finder login admin web
 
-python3  finder-login-admin 
+python3  finder-login-admin.py
 
 is important   url + /
 
-python3 finder-login-admin -u http://testphp.vulnweb.com/
+python3 finder-login-admin.py -u http://testphp.vulnweb.com/
