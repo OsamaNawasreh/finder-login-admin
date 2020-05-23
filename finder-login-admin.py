@@ -38,7 +38,7 @@ python3 finder-login-admin.py -u or url url+/
  is important     url + /
 --------------
 
-ex:
+
 python3 finder-login-admin.py -u http://testphp.vulnweb.com/
 python3 finder-login-admin.py --url https://www.yahoo.com/
 
